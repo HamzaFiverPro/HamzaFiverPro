@@ -8,7 +8,7 @@ I am a passionate teen software engineer from Pakistan 🇵🇰.
 🚀 Experienced in Python and eager to learn more, I constantly seek new challenges to expand my skills and knowledge.I also dabble in C++ and C, exploring their power and versatility
 
 
-Skills: Python/C++/C
+####Skills: Python/C++/C
 
 - 🔭 I’m currently attaining higher secondary education.
 - 📖 I'm always learning new stuff about computer programming.
