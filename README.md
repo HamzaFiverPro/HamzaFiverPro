@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/HamzaFiverPro/HamzaFiverPro/blob/main/Untitled-1.png?raw=true)
+![Software Engineer](https://github.com/HamzaFiverPro/HamzaFiverPro/blob/main/MainPicture.png?raw=true)
 
 ### Hi there 👋, my name is Hamza Saleem
 #### I am a Software Engineer
