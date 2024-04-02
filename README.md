@@ -10,7 +10,9 @@ I am a passionate teen software engineer from Pakistan 🇵🇰.
 
 Skills: Python/C++/C
 
-- 🔭 I’m currently attaining higher secondary education and doing courses online on programming. 
+- 🔭 I’m currently attaining higher secondary education.
+- 📖 I'm always learning new stuff about computer programming.
+- 💻 My future profession is going to be a software engineer
 
 
 
