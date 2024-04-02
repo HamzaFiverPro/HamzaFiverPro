@@ -3,7 +3,8 @@
 ### Hi there 👋, my name is Hamza Saleem
 #### I am a Software Engineer
 
-I am a passionate teen software engineer from Pakistan 🇵🇰.\n
+I am a passionate teen software engineer from Pakistan 🇵🇰.
+
 🚀 Experienced in Python and eager to learn more, I constantly seek new challenges to expand my skills and knowledge.I also dabble in C++ and C, exploring their power and versatility
 
 
